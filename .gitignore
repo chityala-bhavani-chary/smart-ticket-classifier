@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+models/
+*.pt
+*.pkl
+*.npz
+.env
+.idea/
+.vscode/
+
+customer_support_tickets_200k.csv
+customer_support_tickets_200k.zip
+*.joblib
